@@ -11,10 +11,6 @@ Created By: Brad Voris<BR />
 <img alt="GitHub issues" src="https://img.shields.io/github/issues/bvoris/pythoncurrentweatherconditions">
 <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/bvoris/pythoncurrentweatherconditions">
 <BR /><BR />
-Example of pythoncurrentweatherconditions:<BR />
-<IMG SRC="https://github.com/bvoris/pythoncurrentweatherconditions/blob/main/weatherss.PNG" ALIGN=LEFT>
-<BR /><BR />
-
 ## Connect with me at
 
 <a href="https://twitter.com/HMInfoSecViking?ref_src=twsrc%5Etfw"><IMG SRC="https://github.com/bvoris/bvoris/blob/master/twitter.jpg" WIDTH=10% HEIGHT=10% ALIGN=LEFT></a>
